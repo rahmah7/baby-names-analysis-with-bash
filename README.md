@@ -3,7 +3,7 @@
 ### [Bash Scripting for Data Scientists](https://my.ine.com/course/bash-scripting-for-data-scientists/3db142b4-a117-4d83-9588-dc0ed0d37d38)
 
 # Baby names analysis with bash
-
+ 
 The website https://www.babynames.com/names has numerous names arranged onto multiple pages by starting letter of the name. It also provides information about the origin and meaning of individual names, but we are not concerned with that.
 
 For this project, you will be utilizing that resource to identify all listed names, but not any additional information, and save that list to a file.
